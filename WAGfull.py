@@ -68,7 +68,7 @@ running = 0
 user = "user"
 
 def init():
-    print(f"{fg}{bg}Using WAG Preview")
+    print(f"{fg}{bg}Using WAG Full")
 
 
 init()
